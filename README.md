@@ -1,3 +1,3 @@
 # first-case
 understanding of git.
-im engineer
+im Electrical engineer
